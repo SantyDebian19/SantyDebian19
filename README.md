@@ -27,6 +27,7 @@ Experiencia trabajando con tecnologías modernas en entornos productivos, incluy
 ### 🎨 Frontend
 
 * React
+* Angular
 * JavaScript (ES6+)
 * jQuery
 * HTML5 / CSS3
