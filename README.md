@@ -45,12 +45,50 @@ Software engineer focused on enterprise web applications, external system integr
 
 ---
 
+## 💼 Work Experience
+
+### 🏭 Foxconn Baja California
+**Enterprise Developer Solutions** &nbsp;·&nbsp; `Julio 2025 – Actualmente`
+
+Desarrollador de software en el departamento Enterprise Developer Solutions, especializado en el desarrollo, mantenimiento e integración de aplicaciones web empresariales.
+
+- Desarrollo con `.NET`, `jQuery`, `SQL Server` y `Oracle`
+- Construcción de procesos automatizados mediante agendadores y tareas programadas
+- Desarrollo de flujos **ETL** para extracción, transformación y carga de datos
+- Generación de dashboards e indicadores en **Power BI** para análisis y toma de decisiones
+- Manejo de aplicaciones basadas en contenedores con **iframes**
+- Despliegue, configuración y administración en **servidores internos**
+
+---
+
+### 🏢 Grupo Megalopolis Multiservicios del Norte
+**Full Stack Developer** &nbsp;·&nbsp; `Junio – Septiembre 2025`
+
+Desarrollo de sistema web integral para la gestión laboral.
+
+- Frontend con **React + TypeScript**, backend con **NestJS**
+- Base de datos en **Supabase / PostgreSQL**
+- Despliegue continuo mediante **Vercel**
+- Control de versiones con **GitHub**, asegurando escalabilidad y buenas prácticas
+
+---
+
+### 🏗️ Phoenix Diseño y Manufactura
+**Software Developer** &nbsp;·&nbsp; `Junio – Septiembre 2025`
+
+Desarrollo e implementación de sistema de software para la gestión de comedor de empleados.
+
+- Tecnologías **.NET** enfocadas en optimización de procesos administrativos
+- Control de usuarios y mejora de la eficiencia operativa
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 [MMS – Inventory Management System]
 > Enterprise system for inventory control, cyclic counts, and discrepancy validation.
 
-- Управление продуктами, locations, and production lines
+- Product, location, and production line management
 - Automated cyclic counts with discrepancy reporting
 - PDF report generation and external system integration
 
