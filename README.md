@@ -1,14 +1,145 @@
-# 👋 Hola, soy Santy
+# 👨‍💻 Santy Martínez Castellanos
 
-💻 Desarrollador Web | .NET | SQL Server | React  
-📍 México  
+**Enterprise Developer | Web Applications | Data & Systems Integration**
 
-## 🚀 Tecnologías
-- Backend: .NET, Node.js
-- Frontend: React, JavaScript, jQuery
-- DB: SQL Server, Oracle, PostgreSQL
+📍 México
+💼 Desarrollador enfocado en soluciones empresariales, automatización de procesos y sistemas de alto rendimiento.
 
-## 📌 Proyectos
-- Sistema MMS (Inventarios)
-- Hand Speak (Traducción de señas)
-- NUTRICEL (Planes nutricionales)
+---
+
+## 🧠 Perfil Profesional
+
+Ingeniero de software con experiencia en el desarrollo de aplicaciones web empresariales, integraciones con sistemas externos y manejo de grandes volúmenes de datos. Especializado en arquitecturas backend robustas, optimización de consultas y automatización de procesos críticos de negocio.
+
+Experiencia trabajando con tecnologías modernas en entornos productivos, incluyendo despliegues en servidores internos, mantenimiento de sistemas legacy y desarrollo de nuevas soluciones escalables.
+
+---
+
+## ⚙️ Stack Tecnológico
+
+### 🖥️ Backend
+
+* .NET (C#)
+* Node.js
+* APIs REST
+* Arquitectura en capas
+
+### 🎨 Frontend
+
+* React
+* JavaScript (ES6+)
+* jQuery
+* HTML5 / CSS3
+
+### 🗄️ Bases de Datos
+
+* SQL Server
+* Oracle
+* PostgreSQL
+
+### 📊 Data & Analytics
+
+* ETL Processes
+* Power BI
+* Data Transformation
+* Reporting
+
+### 🔄 Control de Versiones
+
+* Git
+* Sourcetree
+* Bitbucket
+* GitHub
+
+### 🧩 Otros
+
+* Deploy en servidores internos
+* Sistemas basados en iframes
+* Soporte y mantenimiento de aplicaciones
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔹 MMS – Sistema de Gestión de Inventarios
+
+Sistema empresarial para control de inventarios, conteos cíclicos y validación de discrepancias.
+
+**Funciones clave:**
+
+* Gestión de productos, ubicaciones y líneas de producción
+* Conteos cíclicos automatizados
+* Generación de reportes y exportación a PDF
+* Integración con sistemas externos
+
+---
+
+### 🔹 NUTRICEL – Plataforma Nutricional Inteligente
+
+Sistema web que combina comercio digital con planes nutricionales personalizados.
+
+**Funciones clave:**
+
+* Generación de planes alimenticios por nutriólogos
+* Gestión de productos alimenticios
+* Personalización basada en necesidades del usuario
+
+---
+
+### 🔹 Hand Speak – Traductor de Lenguaje de Señas
+
+Aplicación web para traducción en tiempo real de lenguaje de señas a texto.
+
+**Funciones clave:**
+
+* Reconocimiento de gestos
+* Conversión a texto
+* Reproducción de audio
+* Historial de traducciones
+
+---
+
+### 🔹 Crop Management System
+
+Plataforma enfocada en la gestión agrícola para monitoreo y control de cultivos.
+
+**Funciones clave:**
+
+* Seguimiento de ciclos de cultivo
+* Registro de condiciones ambientales
+* Control de recursos (agua, fertilizantes, etc.)
+* Análisis de datos para optimización de producción
+
+---
+
+### 🔹 Megalopolis Management System
+
+Sistema de gestión integral orientado a la administración de operaciones a gran escala.
+
+**Funciones clave:**
+
+* Administración centralizada de múltiples entidades o unidades
+* Control de operaciones y procesos
+* Gestión de usuarios y roles
+* Visualización de métricas y reportes estratégicos
+
+---
+
+## 📈 Enfoque Profesional
+
+* Desarrollo de software orientado a negocio
+* Optimización de procesos y rendimiento
+* Integración de sistemas empresariales
+* Diseño de soluciones escalables y mantenibles
+
+---
+
+## 📫 Contacto
+
+* GitHub: https://github.com/SantyLibra19
+
+---
+
+## ⚡ Filosofía de Desarrollo
+
+> "El software no solo debe funcionar, debe ser escalable, mantenible y resolver problemas reales de negocio."
