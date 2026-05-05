@@ -1,4 +1,4 @@
-# 👨‍💻 Santy Martínez Castellanos
+# 👨‍💻 Santy Francisco Martínez Castellanos
 
 **Enterprise Developer | Web Applications | Data & Systems Integration**
 
@@ -101,14 +101,15 @@ Aplicación web para traducción en tiempo real de lenguaje de señas a texto.
 
 ### 🔹 Crop Management System
 
-Plataforma enfocada en la gestión agrícola para monitoreo y control de cultivos.
+Sistema orientado a la **trazabilidad de importaciones y exportaciones**, enfocado en el control comercial y logístico de productos.
 
 **Funciones clave:**
 
-* Seguimiento de ciclos de cultivo
-* Registro de condiciones ambientales
-* Control de recursos (agua, fertilizantes, etc.)
-* Análisis de datos para optimización de producción
+* Control y registro de operaciones de importación y exportación
+* Trazabilidad completa de productos a través de diferentes etapas logísticas
+* Gestión y organización de productos y movimientos comerciales
+* Sumarización y consolidación de datos para análisis operativo
+* Seguimiento de transacciones y optimización de procesos logísticos
 
 ---
 
