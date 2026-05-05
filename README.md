@@ -62,7 +62,7 @@ Desarrollador de software en el departamento Enterprise Developer Solutions, esp
 ---
 
 ### 🏢 Grupo Megalopolis Multiservicios del Norte
-**Full Stack Developer** &nbsp;·&nbsp; `Junio – Septiembre 2025`
+**Full Stack Developer** &nbsp;·&nbsp; `Temporal 2025`
 
 Desarrollo de sistema web integral para la gestión laboral.
 
@@ -74,7 +74,7 @@ Desarrollo de sistema web integral para la gestión laboral.
 ---
 
 ### 🏗️ Phoenix Diseño y Manufactura
-**Software Developer** &nbsp;·&nbsp; `Junio – Septiembre 2025`
+**Software Developer** &nbsp;·&nbsp; `Temporal 2025`
 
 Desarrollo e implementación de sistema de software para la gestión de comedor de empleados.
 
@@ -126,17 +126,6 @@ Desarrollo e implementación de sistema de software para la gestión de comedor 
 - Data summarization and commercial transaction management
 
 **Stack:** `.NET` `SQL Server` `Power BI`
-
----
-
-### 🔹 [Megalopolis Management System]
-> Large-scale operations management with centralized administration.
-
-- Multi-entity centralized administration
-- User and role management
-- Strategic metrics and reporting dashboards
-
-**Stack:** `Angular` `Node.js` `Oracle`
 
 ---
 
